@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5d28e;
+    text-align: center;
+    padding: .1rem;
+    font-size: x-small;
+}
+
+.footer a{
+    text-decoration: none;
+    color:blue;
+    font-size:x-small;
+}

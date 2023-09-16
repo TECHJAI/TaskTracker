@@ -1,0 +1,29 @@
+.form1 {
+    width: max-content;
+	position: absolute;	
+	left: 0%;
+    top: 30%;
+}
+
+.form2 {
+    width: max-content;
+    position: absolute;
+    right: 0%;
+    top: 30%;
+}
+.badge {
+    margin-left: 10px;
+    text-align: right;
+}
+.quote {
+	padding: 0;
+	margin: 0;
+	font-family: segoe print;
+    font-size: 30px;
+}
+
+.heading {
+    margin-top: 200px;
+	font-family: calibri;
+	font-size: 50px;
+}
